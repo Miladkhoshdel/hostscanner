@@ -42,8 +42,8 @@ Owner: xxx.
 TimeZone: xxx
 
 [ Port Scan ]
-Scanning yahoo.com for ports 21, 22, 80, 139, 443, 8080 ...
-Host 74.6.143.25 isup
+Scanning xxx.xx for ports 21, 22, 80, 139, 443, 8080 ...
+Host xxx is up
 Port 21 : filtered
 Port 22 : filtered
 Port 80 : open
