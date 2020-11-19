@@ -19,6 +19,9 @@ This is the source code of HostScanner. This script get a port and check it in a
 The code is written in python **3.x**
 **Important**: you must install python before run this script.
 
+Output
+-------------
+
 ```python hostscanner.py x.com
 
 
